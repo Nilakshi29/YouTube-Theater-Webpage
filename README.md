@@ -1,8 +1,5 @@
 # YouTube Theater WebPage
 
-## Deployment
-
-
 ## Screenshots
 ![alt text](<Screenshot 2024-11-22 164445.png>)
 ![alt text](<Screenshot 2024-11-22 164554.png>)
